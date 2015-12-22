@@ -1,0 +1,151 @@
+.row{
+     margin: 5px;
+     }
+[class*="col-"] {
+    line-height: 16px;
+    text-align: center;
+}
+.colonne {
+    line-height: 56px;
+    vertical-align: middle;
+}
+
+.elements{
+      line-height: 16px;
+      font-size:10px;
+      height:66px;
+      font-weight:bold ;
+}
+.nonmetaux {
+    line-height: 16px;
+    border: 1px solid black;
+    color: black;
+    background-color: #A0FFA0;
+    font-size: 7px;
+}
+.nonmetauxred{
+  line-height: 16px;
+  border: 1px solid black;
+  color: red;
+  background-color: #A0FFA0;
+  font-size: 7px;
+}
+.metauxalcalins {
+    line-height: 16px;
+    border: 1px solid black;
+    color: #000000;
+    background-color: #FF6666;
+    font-size: 7px;
+    }
+.metalloides{
+    line-height: 16px;
+    border: 1px solid black;
+    color: #000000;
+    background-color: #CCCC99;
+    font-size: 7px;
+}
+.gaznobles{
+     line-height: 16px;
+     border: 1px solid black;
+     color: black;
+     background-color: #C0FFFF;
+     font-size: 7px;
+}
+.gaznoblesred{
+    line-height: 16px;
+    border: 1px solid black;
+    color: red;
+    background-color: #C0FFFF;
+    font-size: 7px;
+}
+.gaznobles-dashed{
+      line-height: 16px;
+      border: 1px dashed black;
+      color: #FF0000;
+      background-color: #C0FFFF;
+}
+.gaznobles-dotted{
+     line-height: 16px;
+     border: 1px dotted black;
+     color: #000000;
+     background-color: #C0FFFF;
+}
+.metauxalcalins{
+      line-height: 16px;
+      border: 1px solid black;
+      color: #000000;
+      background-color: #FF6666;
+}
+.metauxalcalins-dashed{
+      line-height: 16px;
+      border: 1px dashed black;
+      color: #000000;
+      background-color: #FF6666;
+}
+.alcalinoterreux{
+      line-height: 16px;
+      border: 1px solid black;
+      color: #000000;
+      background-color: #FFDEAD;
+      font-size: 7px;
+}
+.alcalinoterreux-dashed{
+      line-height: 16px;
+      border: 1px dashed black;
+      color: #000000;
+      background-color: #FFDEAD;
+}
+.metalloides{
+       line-height: 16px;
+       border: 1px solid black;
+       color: #000000;
+       background-color: #CCCC99;
+}
+.metalloides-dashed{
+      line-height: 16px;
+      border: 1px dashed black;
+      color: #000000;
+      background-color: #CCCC99;
+}
+.halogenes{
+      line-height: 16px;
+      border: 1px solid black;
+      color: #000000;
+      background-color: #FFFF99;
+      font-size: 7px;
+
+}
+.halogenesred{
+    line-height: 16px;
+    border: 1px solid black;
+    color: red;
+    background-color: #FFFF99;
+    font-size: 7px;
+
+}
+.halogenes-dashed{
+      line-height: 16px;
+      border: 1px dashed black;
+      color: #000000;
+      background-color: #FFFF99;
+}
+.halogenes-dotted {
+    line-height: 16px;
+    border: 1px dotted black;
+    color: #000000;
+    background-color: #ffff99;
+}
+.metauxpauvres {
+    line-height: 16px;
+    border: 1px solid black;
+    color: black;
+    background-color: #CCC;
+    font-size: 7px;
+}
+.metauxdetransitions {
+    line-height: 16px;
+    border: 1px solid black;
+    color: black;
+    background-color: #FFC0C0;
+    font-size: 7px;
+}
